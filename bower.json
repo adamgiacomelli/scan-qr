@@ -6,7 +6,7 @@
     "Adam <adam.giacom@gmail.com>"
   ],
   "description": "QR scanner angular directive",
-  "main": "./scan-qr.js",
+  "main": "./angular-scan-qr.js",
   "keywords": [
     "angular",
     "qr",

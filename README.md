@@ -22,7 +22,7 @@ $ bower install angular-scan-qr
 
 ```html
 <script src="bower_components/qcode-decoder/dist/qcode-decoder.min.js"></script>
-<script src="bower_components/angular-scan-qr/scan-qr.js"></script>
+<script src="bower_components/angular-scan-qr/angular-scan-qr.js"></script>
 ```
 
 ### Parameters
