@@ -2,6 +2,5 @@
   "name": "angular-scan-qr",
   "version": "0.1.0",
   "devDependencies": {
-    "qcode-decoder": "~0.1.0"
   }
 }
